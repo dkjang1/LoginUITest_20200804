@@ -1,4 +1,4 @@
-package com.kakao.login_20200804
+package com.kakao.LoginUITest_20200804
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.kakao.login_20200804", appContext.packageName)
+        assertEquals("com.kakao.LoginUITest_20200804", appContext.packageName)
     }
 }

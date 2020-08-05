@@ -1,4 +1,4 @@
-package com.kakao.login_20200804
+package com.kakao.LoginUITest_20200804
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

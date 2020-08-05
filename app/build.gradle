@@ -7,7 +7,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.kakao.login_20200804"
+        applicationId "com.kakao.LoginUITest_20200804"
         minSdkVersion 15
         targetSdkVersion 29
         versionCode 1
